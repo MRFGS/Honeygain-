@@ -2,8 +2,8 @@
 FROM honeygain/honeygain:latest
 
 # Set environment variables for login
-ENV EMAIL="your_email@example.com"
-ENV PASSWORD="your_password"
+ENV EMAIL="snyderseth961@gmail.com"
+ENV PASSWORD="Seth2006#"
 ENV DEVICE_NAME="MyDevice"
 
 # Install necessary tools for logging (e.g., curl, bash)
